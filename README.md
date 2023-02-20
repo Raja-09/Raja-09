@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring software developer studying Computer Science and Engineering at VIT Vellore. Passionate about writing clean and efficient code, with a strong interest in software design patterns, algorithms, and web development. Proficient in front-end development technologies such as HTML, CSS, JavaScript, and React, as well as back-end technologies such as Node.js, Express, and MongoDB. Always eager to learn and explore new web development frameworks and tools. Currently focused on honing my skills in web development and actively seeking opportunities to contribute to open-source projects. Let's code together and build something amazing for the web
+Aspiring software developer studying Computer Science and Engineering at VIT Vellore. Passionate about writing clean and efficient code, with a strong interest in software design patterns, algorithms, and web development. Proficient in front-end development technologies such as HTML, CSS, JavaScript, and React, as well as back-end technologies such as Node.js, Express, and MongoDB. Always eager to learn and explore new web development frameworks and tools. Currently focused on honing my skills in web development and actively seeking opportunities that help in doing so. 
 
 
 ## 🌐 Socials:
