@@ -1,6 +1,9 @@
 # 💫 About Me:
 Aspiring software developer studying Computer Science and Engineering at VIT Vellore. Passionate about writing clean and efficient code, with a strong interest in software design patterns, algorithms, and web development. Proficient in front-end development technologies such as HTML, CSS, JavaScript, and React, as well as back-end technologies such as Node.js, Express, and MongoDB. Always eager to learn and explore new web development frameworks and tools. Currently focused on honing my skills in web development and actively seeking opportunities that help in doing so. 
 
+# 👤 Know More 
+<img src="https://react-portfolio-six-wheat.vercel.app/static/media/R-Logo.2cf994c058019947b7f8.png" width=20px margin=10> &nbsp;&nbsp;<a href="react-portfolio-six-wheat.vercel.app">Portfolio | Raja</a>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raja-aravindha-594686196) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rajawastaken) 
