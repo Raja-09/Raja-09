@@ -2,7 +2,7 @@
 Aspiring software developer studying Computer Science and Engineering at VIT Vellore. Passionate about writing clean and efficient code, with a strong interest in software design patterns, algorithms, and web development. Proficient in front-end development technologies such as HTML, CSS, JavaScript, and React, as well as back-end technologies such as Node.js, Express, and MongoDB. Always eager to learn and explore new web development frameworks and tools. Currently focused on honing my skills in web development and actively seeking opportunities that help in doing so. 
 
 # 👤 Know More 
-<img src="https://react-portfolio-six-wheat.vercel.app/static/media/R-Logo.2cf994c058019947b7f8.png" width=20px margin=10> &nbsp;&nbsp;<a href="react-portfolio-six-wheat.vercel.app">Portfolio | Raja</a>
+<img src="https://react-portfolio-six-wheat.vercel.app/static/media/R-Logo.2cf994c058019947b7f8.png" width=20px margin=10> &nbsp;&nbsp;<a href="https://react-portfolio-raja-09.vercel.app/">Portfolio | Raja</a>
 
 
 ## 🌐 Socials:
